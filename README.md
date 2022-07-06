@@ -3,7 +3,7 @@
   - model = SSD ResNet50 V1 FPN 640x640
 
 # version
-  - python 3.0
+  - python 3.9
   - tensorflow 2.5.0
 
 # Directory Structure
