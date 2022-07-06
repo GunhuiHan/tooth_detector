@@ -127,7 +127,7 @@ def makeJsonFile():
         if(len(box) == 0):
             error_data.append(i) 
         else :
-            data.append({'box' : box, 'filename' : i}) # data format :  boxes [x1, y1, x2, y2], filename
+            data.append({'box' : box, 'filename' : i})
             print('data added : {box : ', box, 'filename : ', i, '}')
 
 
