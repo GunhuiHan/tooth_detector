@@ -61,3 +61,6 @@
 - INFO:tensorflow:        + Loss/classification_loss: 0.236925
 - INFO:tensorflow:        + Loss/regularization_loss: 2.124194
 - INFO:tensorflow:        + Loss/total_loss: 2.539773
+
+output example
+[output_example.pdf](https://github.com/GunhuiHan/tooth_detector/files/9136844/output_example.pdf)
