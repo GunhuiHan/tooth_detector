@@ -35,32 +35,6 @@
  - Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.284
  - Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.610
  - Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.216
- - Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
- - Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
- - Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.284
- - Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.350
- - Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.596
- - Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.615
- - Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = -1.000
- - Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = -1.000
- - Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.615
-- INFO:tensorflow:        Eval metrics at step 25000
-- INFO:tensorflow:        + DetectionBoxes_Precision/mAP: 0.283663
-- INFO:tensorflow:        + DetectionBoxes_Precision/mAP@.50IOU: 0.610300
-- INFO:tensorflow:        + DetectionBoxes_Precision/mAP@.75IOU: 0.216358
-- INFO:tensorflow:        + DetectionBoxes_Precision/mAP (small): -1.000000
-- INFO:tensorflow:        + DetectionBoxes_Precision/mAP (medium): -1.000000
-- INFO:tensorflow:        + DetectionBoxes_Precision/mAP (large): 0.283663
-- INFO:tensorflow:        + DetectionBoxes_Recall/AR@1: 0.350000
-- INFO:tensorflow:        + DetectionBoxes_Recall/AR@10: 0.595833
-- INFO:tensorflow:        + DetectionBoxes_Recall/AR@100: 0.614583
-- INFO:tensorflow:        + DetectionBoxes_Recall/AR@100 (small): -1.000000
-- INFO:tensorflow:        + DetectionBoxes_Recall/AR@100 (medium): -1.000000
-- INFO:tensorflow:        + DetectionBoxes_Recall/AR@100 (large): 0.614583
-- INFO:tensorflow:        + Loss/localization_loss: 0.178654
-- INFO:tensorflow:        + Loss/classification_loss: 0.236925
-- INFO:tensorflow:        + Loss/regularization_loss: 2.124194
-- INFO:tensorflow:        + Loss/total_loss: 2.539773
 
 output example
 [output_example.pdf](https://github.com/GunhuiHan/tooth_detector/files/9136844/output_example.pdf)
