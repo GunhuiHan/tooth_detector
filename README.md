@@ -1,4 +1,4 @@
-# Wisdom tooth(사랑니) detector
+# Wisdom tooth(사랑니) detector (진행중)
   - Using Tensorflow object detection API
   - model = SSD ResNet50 V1 FPN 640x640
 
